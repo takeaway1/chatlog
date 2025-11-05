@@ -9,10 +9,10 @@ import (
 	"io"
 
 	"github.com/rs/zerolog/log"
-	"github.com/sjzar/go-lame"
-	"github.com/sjzar/go-silk"
+	"github.com/takeaway1/go-lame"
+	"github.com/takeaway1/go-silk"
 
-	"github.com/sjzar/chatlog/pkg/util/zstd"
+	"github.com/takeaway1/chatlog/pkg/util/zstd"
 )
 
 const (

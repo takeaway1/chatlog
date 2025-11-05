@@ -1,6 +1,6 @@
 FROM debian:12-slim
 
-LABEL maintainer="Sarv <https://github.com/sjzar>"
+LABEL maintainer="Sarv <https://github.com/takeaway1>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 

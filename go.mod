@@ -1,4 +1,4 @@
-module github.com/sjzar/chatlog
+module github.com/takeaway1/chatlog
 
 go 1.24.0
 
@@ -21,8 +21,8 @@ require (
 	github.com/rs/zerolog v1.34.0
 	github.com/shirou/gopsutil/v4 v4.25.7
 	github.com/sirupsen/logrus v1.9.3
-	github.com/sjzar/go-lame v0.0.9
-	github.com/sjzar/go-silk v0.0.1
+	github.com/takeaway1/go-lame v0.0.9
+	github.com/takeaway1/go-silk v0.0.1
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.20.1
 	golang.org/x/crypto v0.41.0

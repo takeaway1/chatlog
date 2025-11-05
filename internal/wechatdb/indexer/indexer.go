@@ -16,8 +16,8 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/sjzar/chatlog/internal/model"
-	"github.com/sjzar/chatlog/internal/wechatdb/msgstore"
+	"github.com/takeaway1/chatlog/internal/model"
+	"github.com/takeaway1/chatlog/internal/wechatdb/msgstore"
 )
 
 const (
